@@ -1,2 +1,2 @@
-wait(20)
+wait(40)
 game.Players.LocalPlayer:Kick("Banned reason: Exploting")
